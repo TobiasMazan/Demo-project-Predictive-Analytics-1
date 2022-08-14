@@ -29,11 +29,6 @@ _3.2. Model optimization_
 
 ![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%201.png)
 
-![image](https://user-images.githubusercontent.com/99291264/164911726-c4c17e4e-3b42-49b4-b8e5-140655a26b26.png)
-
-![image](https://user-images.githubusercontent.com/99291264/164911737-71a749ff-03d7-4c62-aa77-23d2721ca028.png)
-
-
 _3.3. Model deployment and utilization_
 
 _3.4. Future work_

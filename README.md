@@ -24,10 +24,15 @@ __3. Predictive Modelling__
 
 _3.1. Baseline models_
 
+![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%201b.png)
 
 _3.2. Model optimization_
 
 ![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%201.png)
+
+![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%202.png)
+
+![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%203.png)
 
 _3.3. Model deployment and utilization_
 

@@ -44,6 +44,12 @@ In an example run linear regression beats null model nearly 3 times. Prediction 
 
 _3.2. Model optimization_
 
+In order to improve quality of the baseline model _Deep Neural Network (DNN)_ model have been employed together with _feature selection_ and _hyperparameter tuning_ methods.
+
+Performing feature selection _for_ loop invoking _SelectKBest_ filtering method has been initiated. It revealed that no particular number of predictor variables (features) consistently shows to minimize root mean squared error (RMSE). Therefore no modification to original dataset has been required.  
+
+The hyperparameter tuning has been performed in cloud using cross validation grid search (_GridSearchCV_) and neg_mean_absolute_percentage_error scoring function. Finally, best model has been found for hyperparameters- {'batch_size': 10, 'epochs': 20, 'optimizer': 'RMSprop'} beating the linear regression model by 8%. Real advantage is however exhibitted in fidelity of DNN predicted relationship shape to the observed one:
+
 ![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%201.png)
 
 ![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%202.png)

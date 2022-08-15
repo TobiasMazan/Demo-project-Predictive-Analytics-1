@@ -26,6 +26,12 @@ As an example, the scatter for age versus price is relatively low with both corr
 
 _2.3. Data cleaning_
 
+In order to prepare data for further analysis following actions have been performed:
+  * Elimination of data points with missing values for 'Price' variable,
+  * Replacing incorrect values (price of the car < 0) with mean value in a dataset, 
+  * Removing duplicates based on 'KM' variable,
+  * Removing redundant variables: those that show strong dependency on another variable in a dataset removed from linear regression baseline model ('Weight' showed stronger relation with target variable than 'CC'- engine size)      
+
 __3. Predictive Modelling__
 
 _3.1. Baseline models_

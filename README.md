@@ -36,6 +36,10 @@ __3. Predictive Modelling__
 
 _3.1. Baseline models_
 
+Model response (target) variable ('Price') as well as predictor variables ('Age', 'KM', 'Weight', 'HP', 'MetColor', 'Doors') have been defined. Train-test split and then basic linear regression model has been initiated and trained. As a null model prediction of mean 'Price' for each data point has been taken. Root mean squared error (RMSE) has been used as model error metric. 
+
+In an example run linear regression beats null model nearly 3 times. Prediction visualizations between response and predictor variables question however validity of the selected linear regression baseline model. While predictive power of each individual predictor variable is limited by multivariable nature of the analyzed problem, only the predicted magnitude is close to observation, but not the relationship shape: 
+
 ![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%201b.png)
 
 _3.2. Model optimization_

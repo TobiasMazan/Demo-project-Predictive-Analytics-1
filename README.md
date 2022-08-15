@@ -40,7 +40,7 @@ Model response (target) variable ('Price') as well as predictor variables ('Age'
 
 In an example run linear regression beats null model nearly 3 times. Prediction visualizations between response and predictor variables question however validity of the selected linear regression baseline model. While predictive power of each individual predictor variable is limited by multivariable nature of the analyzed problem, for the main predictor ('Age') only the predicted magnitude is close to observation, but not the relationship shape: 
 
-![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%201b.png)
+![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%201.png)
 
 _3.2. Model optimization_
 

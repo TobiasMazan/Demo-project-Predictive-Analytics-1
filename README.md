@@ -50,11 +50,11 @@ Performing feature selection _for_ loop invoking _SelectKBest_ filtering method 
 
 The hyperparameter tuning has been performed in cloud using cross validation grid search (_GridSearchCV_) and _neg mean absolute percentage error_ scoring function. Finally, best model has been found for hyperparameters- {'batch_size': 10, 'epochs': 20, 'optimizer': 'RMSprop'} beating the linear regression model by 8%. This advantage was exhibited in fidelity of DNN predicted relationship shape to the observed one:
 
-![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%201.png)
-
 ![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%202.png)
 
 ![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%203.png)
+
+![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%204.png)
 
 _3.3. Model deployment and utilization_
 

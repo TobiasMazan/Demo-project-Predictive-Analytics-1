@@ -48,7 +48,7 @@ In order to improve quality of the baseline model _Deep Neural Network (DNN)_ mo
 
 Performing feature selection _for_ loop invoking _SelectKBest_ filtering method has been initiated. It revealed that no particular number of predictor variables (features) consistently shows to minimize root mean squared error (RMSE). Therefore no modification to original dataset has been required.  
 
-The hyperparameter tuning has been performed in cloud using cross validation grid search (_GridSearchCV_) and _neg mean absolute percentage error_ scoring function. Finally, best model has been found for hyperparameters- {'batch_size': 10, 'epochs': 20, 'optimizer': 'RMSprop'} beating the linear regression model by 8%. Real advantage was however exhibited in fidelity of DNN predicted relationship shape to the observed one:
+The hyperparameter tuning has been performed in cloud using cross validation grid search (_GridSearchCV_) and _neg mean absolute percentage error_ scoring function. Finally, best model has been found for hyperparameters- {'batch_size': 10, 'epochs': 20, 'optimizer': 'RMSprop'} beating the linear regression model by 8%. This advantage was exhibited in fidelity of DNN predicted relationship shape to the observed one:
 
 ![image](https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/Fig%201.png)
 

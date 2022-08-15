@@ -20,7 +20,7 @@ Loaded dataset has 8 dimensions and about 2k datapoints. Correlation heatmap rev
 
 ![image](https://user-images.githubusercontent.com/99291264/164911775-6a991ada-2f39-4593-b99d-7f5b1f66603c.png)
 
-As an example, the scatter for age versus price is relatively low with both correlation coefficient and causal link indicate a negative relationship:
+As an example, the scatter for age versus price is relatively low with both correlation coefficient and causal link indicating a negative relationship:
 
 ![image](https://user-images.githubusercontent.com/99291264/164911787-6e964a1c-2a5b-4654-9cbf-5f6bf3930fd7.png)
 

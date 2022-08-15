@@ -12,6 +12,8 @@ __2. Data collection and preparation__
 
 _2.1. Data collection_
 
+Original data has been taken from web resource: https://thinkingneuron.com/wp-content/uploads/2020/10/CarPricesData.zip
+
 _2.2. Exploratory Data Analysis (EDA)_
 
 ![image](https://user-images.githubusercontent.com/99291264/164911775-6a991ada-2f39-4593-b99d-7f5b1f66603c.png)

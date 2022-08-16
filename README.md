@@ -62,7 +62,7 @@ The best performing model has been deployed as offline application using _pickle
 
 __4. Conclusions__
 
-Approach taken here achieved nearly 300% improvement of null model, further 8% improvement compared to linear regression baseline model and good prediction curve shape fidelity. This suggests that ML model deployed as an independent application can reasonably output market value of secondary market car if trained on dataset of similar class vehicles. 
+Approach taken here achieved nearly 300% improvement of null model, further 8% improvement compared to linear regression baseline model and good prediction curve shape fidelity. This suggests that ML model deployed as an independent application can reasonably output market value of secondary market car if trained on dataset of similar class vehicles. Therefore it can be successfully used to assign "market price", "above market" and "below market" designations to each car for sale entry in the web portal.
 
 __Resources__
 

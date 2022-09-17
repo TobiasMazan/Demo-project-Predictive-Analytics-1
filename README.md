@@ -1,4 +1,4 @@
-# Pricing-analysis-demo-project
+# Pricing analysis demo project
 
 __1. Project overview__
 

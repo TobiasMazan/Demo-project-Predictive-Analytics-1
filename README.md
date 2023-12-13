@@ -1,4 +1,4 @@
-# Pricing analysis demo project
+# Demo project: Predictive Analytics (Price forecast)
 
 __1. Project overview__
 

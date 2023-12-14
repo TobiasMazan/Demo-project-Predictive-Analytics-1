@@ -66,7 +66,7 @@ Approach taken here achieved nearly 300% improvement of null model, further 8% i
 
 __Resources__
 
-Jupyter notebook with code: https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/DNN_Car_Pricing_Tool.ipynb
+Jupyter notebook with code: https://github.com/TobiasMazan/Pricing-analysis-demo-project/blob/main/DNN_Car_Pricing_Tool.ipynb.
 
 
 
